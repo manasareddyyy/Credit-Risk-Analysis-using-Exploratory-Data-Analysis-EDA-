@@ -41,5 +41,7 @@ These datasets contain features like income type, contract type, loan amount, pr
 - Data imbalance was found (~8% defaulters); visualized using percentage plots for better clarity.
 - Top 10 variable correlations were computed separately for defaulters and non-defaulters to understand behavior segmentation.
 
+## 📂 Raw Data
+The raw data used in this project is too large to upload directly to GitHub.
 
-
+📁 [Access Raw Data on Google Drive](https://drive.google.com/drive/folders/1HF-KY16Miwd7456L9Y48nf_CT68tSH8v?usp=sharing)
